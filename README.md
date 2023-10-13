@@ -2,7 +2,7 @@
 I have completed the kinematic of Puma560, with python3.8+cuda.
 DH参数表
 
-| $\alpha_{i-1}$   | $a_{i-1}$ | did_i | $\theta_i$ |
+| $\alpha_{i-1}$   | $a_{i-1}$ | $d_i$ | $\theta_i$ |
 | ---------------- | --------- | ----- | ---------- |
 | 0                | 0         | 0     | $\theta_1$ |
 | $-\frac{\pi}{2}$ | 0         | 0     | $\theta_2$ |
